@@ -356,6 +356,7 @@ span {
   background-repeat: no-repeat;
   background-position: center;
 }
+
 .zabo {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url("./B12A02-Responsive-Flowers/assets/deal-zabo.png");
@@ -524,6 +525,7 @@ span {
       font-weight: 600;
       text-align: left;
     }
+    
     .nav-menu {
       display: none;
     }
